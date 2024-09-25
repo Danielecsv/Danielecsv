@@ -1,4 +1,4 @@
-# Olá! sou Daniele 👋
+# Olá! sou Daniele Vieira 👋
 
 -📚 Sou professora de Informática
 
