@@ -1,8 +1,10 @@
 # Olá! sou Daniele 👋
 
--📚 Sou estudante de Sistemas da Informação 
+-📚 Sou professora de Informática
 
 -🎓 Formada em Ciências Contábeis
+
+-🎓 Formada em Sistemas da Informação
 
 -🥰 Apaixonada por códigos
 
